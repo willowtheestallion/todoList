@@ -1,3 +1,3 @@
 # todoList
 
-A simple to-do-list project written with python
+A simple to-do-list project written with python.
